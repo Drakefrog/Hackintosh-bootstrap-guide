@@ -1,0 +1,18 @@
+黑苹果注意事项
+配置：
+- 打开 verbose
+- 打开 nv-disable
+- skylake 适合 14.2 和 17.1 
+- 那几个码必须弄对
+- 10.13 需要一个 apfs 的 efi
+
+过程中：
+
+
+装完了记得要把显卡开关打开
+
+驱动注意
+必须要预装驱动才行
+- NvidiaGraphicsFixup-master
+- Lilu.kext
+- 
